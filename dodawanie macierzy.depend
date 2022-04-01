@@ -1,0 +1,611 @@
+# depslib dependency file v1.0
+1616696520 source:c:\users\48795\desktop\dodawanie macierzy\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+	"mnozenie.h"
+	"odwrotna.h"
+
+1616614508 c:\users\48795\desktop\dodawanie macierzy\dodawaniemacierzy.h
+	<iostream>
+	"macierze.h"
+
+1616329124 source:c:\users\48795\desktop\dodawanie macierzy\dodawaniemacierzy.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1616596223 c:\users\48795\desktop\dodawanie macierzy\macierze.h
+	<iostream>
+	<math.h>
+
+1616174039 source:c:\users\48795\desktop\dodawanie macierzy\macierze.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1616614673 c:\users\48795\desktop\dodawanie macierzy\odejmowaniemacierzy.h
+	<iostream>
+	"macierze.h"
+
+1616329147 source:c:\users\48795\desktop\dodawanie macierzy\odejmowaniemacierzy.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1616614772 c:\users\48795\desktop\dodawanie macierzy\transpozycja.h
+	<iostream>
+	"macierze.h"
+
+1616174039 source:c:\users\48795\desktop\dodawanie macierzy\transpozycja.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1616963718 c:\users\48795\desktop\dodawanie macierzy\wyznacznik.h
+	<iostream>
+	<math.h>
+	"macierze.h"
+
+1616963753 source:c:\users\48795\desktop\dodawanie macierzy\wyznacznik.cpp
+	<iostream>
+	<math.h>
+	<cmath>
+	<bits/stdc++.h>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1616614413 c:\users\48795\desktop\dodawanie macierzy\menu.h
+	<iostream>
+	"macierze.h"
+
+1616842590 source:c:\users\48795\desktop\dodawanie macierzy\menu.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+	"mnozenie.h"
+	"odwrotna.h"
+
+1616615254 c:\users\48795\desktop\dodawanie macierzy\mnozenie.h
+	<iostream>
+	"macierze.h"
+
+1616615379 source:c:\users\48795\desktop\dodawanie macierzy\mnozenie.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+	"mnozenie.h"
+
+1616963908 c:\users\48795\desktop\dodawanie macierzy\odwrotna.h
+	<iostream>
+	"macierze.h"
+
+1621082572 source:c:\users\48795\desktop\dodawanie macierzy\odwrotna.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+	"odwrotna.h"
+
+1621807412 source:c:\users\48795\desktop\projekt programowanie\dodawanie macierzy\dodawaniemacierzy.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1616614508 c:\users\48795\desktop\projekt programowanie\dodawanie macierzy\dodawaniemacierzy.h
+	<iostream>
+	"macierze.h"
+
+1621807492 c:\users\48795\desktop\projekt programowanie\dodawanie macierzy\macierze.h
+	<iostream>
+	<math.h>
+
+1616614673 c:\users\48795\desktop\projekt programowanie\dodawanie macierzy\odejmowaniemacierzy.h
+	<iostream>
+	"macierze.h"
+
+1616614772 c:\users\48795\desktop\projekt programowanie\dodawanie macierzy\transpozycja.h
+	<iostream>
+	"macierze.h"
+
+1621807455 c:\users\48795\desktop\projekt programowanie\dodawanie macierzy\wyznacznik.h
+	<iostream>
+	<math.h>
+	"macierze.h"
+
+1621807707 c:\users\48795\desktop\projekt programowanie\dodawanie macierzy\menu.h
+	<iostream>
+	"macierze.h"
+
+1616174039 source:c:\users\48795\desktop\projekt programowanie\dodawanie macierzy\macierze.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1621807499 source:c:\users\48795\desktop\projekt programowanie\dodawanie macierzy\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+	"mnozenie.h"
+	"odwrotna.h"
+
+1616615254 c:\users\48795\desktop\projekt programowanie\dodawanie macierzy\mnozenie.h
+	<iostream>
+	"macierze.h"
+
+1616963908 c:\users\48795\desktop\projekt programowanie\dodawanie macierzy\odwrotna.h
+	<iostream>
+	"macierze.h"
+
+1621858646 source:c:\users\48795\desktop\projekt programowanie\dodawanie macierzy\mnozenie.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+	"mnozenie.h"
+
+1621858540 source:c:\users\48795\desktop\projekt programowanie\dodawanie macierzy\odejmowaniemacierzy.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1621858474 source:c:\users\48795\desktop\projekt programowanie\dodawanie macierzy\transpozycja.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1621858896 source:c:\users\48795\desktop\projekt programowanie\dodawanie macierzy\wyznacznik.cpp
+	<iostream>
+	<math.h>
+	<cmath>
+	<bits/stdc++.h>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1621807746 source:c:\users\48795\desktop\projekt programowanie\dodawanie macierzy\odwrotna.cpp
+	<iostream>
+	<math.h>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+	"odwrotna.h"
+
+1621858431 source:c:\users\48795\desktop\projekt programowanie\dodawanie macierzy\menu.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+	"mnozenie.h"
+	"odwrotna.h"
+
+1622819984 source:c:\users\asus\desktop\desktop\projekt programowanie\dodawanie macierzy\dodawaniemacierzy.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1616614508 c:\users\asus\desktop\desktop\projekt programowanie\dodawanie macierzy\dodawaniemacierzy.h
+	<iostream>
+	"macierze.h"
+
+1621807492 c:\users\asus\desktop\desktop\projekt programowanie\dodawanie macierzy\macierze.h
+	<iostream>
+	<math.h>
+
+1616614673 c:\users\asus\desktop\desktop\projekt programowanie\dodawanie macierzy\odejmowaniemacierzy.h
+	<iostream>
+	"macierze.h"
+
+1616614772 c:\users\asus\desktop\desktop\projekt programowanie\dodawanie macierzy\transpozycja.h
+	<iostream>
+	"macierze.h"
+
+1621807455 c:\users\asus\desktop\desktop\projekt programowanie\dodawanie macierzy\wyznacznik.h
+	<iostream>
+	<math.h>
+	"macierze.h"
+
+1621807707 c:\users\asus\desktop\desktop\projekt programowanie\dodawanie macierzy\menu.h
+	<iostream>
+	"macierze.h"
+
+1616174039 source:c:\users\asus\desktop\desktop\projekt programowanie\dodawanie macierzy\macierze.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1621807499 source:c:\users\asus\desktop\desktop\projekt programowanie\dodawanie macierzy\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+	"mnozenie.h"
+	"odwrotna.h"
+
+1616615254 c:\users\asus\desktop\desktop\projekt programowanie\dodawanie macierzy\mnozenie.h
+	<iostream>
+	"macierze.h"
+
+1616963908 c:\users\asus\desktop\desktop\projekt programowanie\dodawanie macierzy\odwrotna.h
+	<iostream>
+	"macierze.h"
+
+1622819984 source:c:\users\asus\desktop\desktop\projekt programowanie\dodawanie macierzy\menu.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+	"mnozenie.h"
+	"odwrotna.h"
+
+1622819985 source:c:\users\asus\desktop\desktop\projekt programowanie\dodawanie macierzy\mnozenie.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+	"mnozenie.h"
+
+1622819984 source:c:\users\asus\desktop\desktop\projekt programowanie\dodawanie macierzy\odejmowaniemacierzy.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1622819984 source:c:\users\asus\desktop\desktop\projekt programowanie\dodawanie macierzy\transpozycja.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1622819985 source:c:\users\asus\desktop\desktop\projekt programowanie\dodawanie macierzy\wyznacznik.cpp
+	<iostream>
+	<math.h>
+	<cmath>
+	<bits/stdc++.h>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1622819985 source:c:\users\asus\desktop\desktop\projekt programowanie\dodawanie macierzy\odwrotna.cpp
+	<iostream>
+	<math.h>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+	"odwrotna.h"
+
+1623045719 source:c:\users\asus\desktop\projekt programowanie\dodawanie macierzy\dodawaniemacierzy.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1616614508 c:\users\asus\desktop\projekt programowanie\dodawanie macierzy\dodawaniemacierzy.h
+	<iostream>
+	"macierze.h"
+
+1621807492 c:\users\asus\desktop\projekt programowanie\dodawanie macierzy\macierze.h
+	<iostream>
+	<math.h>
+
+1616614673 c:\users\asus\desktop\projekt programowanie\dodawanie macierzy\odejmowaniemacierzy.h
+	<iostream>
+	"macierze.h"
+
+1616614772 c:\users\asus\desktop\projekt programowanie\dodawanie macierzy\transpozycja.h
+	<iostream>
+	"macierze.h"
+
+1621807455 c:\users\asus\desktop\projekt programowanie\dodawanie macierzy\wyznacznik.h
+	<iostream>
+	<math.h>
+	"macierze.h"
+
+1621807707 c:\users\asus\desktop\projekt programowanie\dodawanie macierzy\menu.h
+	<iostream>
+	"macierze.h"
+
+1616174039 source:c:\users\asus\desktop\projekt programowanie\dodawanie macierzy\macierze.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1621807499 source:c:\users\asus\desktop\projekt programowanie\dodawanie macierzy\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+	"mnozenie.h"
+	"odwrotna.h"
+
+1616615254 c:\users\asus\desktop\projekt programowanie\dodawanie macierzy\mnozenie.h
+	<iostream>
+	"macierze.h"
+
+1616963908 c:\users\asus\desktop\projekt programowanie\dodawanie macierzy\odwrotna.h
+	<iostream>
+	"macierze.h"
+
+1623617849 source:c:\users\asus\desktop\projekt programowanie\dodawanie macierzy\menu.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+	"mnozenie.h"
+	"odwrotna.h"
+
+1623610067 source:c:\users\asus\desktop\projekt programowanie\dodawanie macierzy\transpozycja.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1622820073 source:c:\users\asus\desktop\projekt programowanie\dodawanie macierzy\mnozenie.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+	"mnozenie.h"
+
+1622820117 source:c:\users\asus\desktop\projekt programowanie\dodawanie macierzy\odejmowaniemacierzy.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1622820102 source:c:\users\asus\desktop\projekt programowanie\dodawanie macierzy\odwrotna.cpp
+	<iostream>
+	<math.h>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+	"odwrotna.h"
+
+1622820087 source:c:\users\asus\desktop\projekt programowanie\dodawanie macierzy\wyznacznik.cpp
+	<iostream>
+	<math.h>
+	<cmath>
+	<bits/stdc++.h>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1623045719 source:c:\users\asus\desktop\programowanie\projekt programowanie\dodawanie macierzy\dodawaniemacierzy.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1616614508 c:\users\asus\desktop\programowanie\projekt programowanie\dodawanie macierzy\dodawaniemacierzy.h
+	<iostream>
+	"macierze.h"
+
+1621807492 c:\users\asus\desktop\programowanie\projekt programowanie\dodawanie macierzy\macierze.h
+	<iostream>
+	<math.h>
+
+1616614673 c:\users\asus\desktop\programowanie\projekt programowanie\dodawanie macierzy\odejmowaniemacierzy.h
+	<iostream>
+	"macierze.h"
+
+1616614772 c:\users\asus\desktop\programowanie\projekt programowanie\dodawanie macierzy\transpozycja.h
+	<iostream>
+	"macierze.h"
+
+1621807455 c:\users\asus\desktop\programowanie\projekt programowanie\dodawanie macierzy\wyznacznik.h
+	<iostream>
+	<math.h>
+	"macierze.h"
+
+1621807707 c:\users\asus\desktop\programowanie\projekt programowanie\dodawanie macierzy\menu.h
+	<iostream>
+	"macierze.h"
+
+1616174039 source:c:\users\asus\desktop\programowanie\projekt programowanie\dodawanie macierzy\macierze.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1621807499 source:c:\users\asus\desktop\programowanie\projekt programowanie\dodawanie macierzy\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+	"mnozenie.h"
+	"odwrotna.h"
+
+1616615254 c:\users\asus\desktop\programowanie\projekt programowanie\dodawanie macierzy\mnozenie.h
+	<iostream>
+	"macierze.h"
+
+1616963908 c:\users\asus\desktop\programowanie\projekt programowanie\dodawanie macierzy\odwrotna.h
+	<iostream>
+	"macierze.h"
+
+1623617849 source:c:\users\asus\desktop\programowanie\projekt programowanie\dodawanie macierzy\menu.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+	"mnozenie.h"
+	"odwrotna.h"
+
+1622820073 source:c:\users\asus\desktop\programowanie\projekt programowanie\dodawanie macierzy\mnozenie.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+	"mnozenie.h"
+
+1622820117 source:c:\users\asus\desktop\programowanie\projekt programowanie\dodawanie macierzy\odejmowaniemacierzy.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1623610067 source:c:\users\asus\desktop\programowanie\projekt programowanie\dodawanie macierzy\transpozycja.cpp
+	<iostream>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
+1622820087 source:c:\users\asus\desktop\programowanie\projekt programowanie\dodawanie macierzy\wyznacznik.cpp
+	<iostream>
+	<math.h>
+	<cmath>
+	<bits/stdc++.h>
+	"dodawaniemacierzy.h"
+	"macierze.h"
+	"odejmowaniemacierzy.h"
+	"transpozycja.h"
+	"wyznacznik.h"
+	"menu.h"
+
